@@ -27,3 +27,6 @@ WIP's for the next mod update
 - Smooth textures (Separate from the original mod unless the community says otherwise)
 - Custom loading screen
 - Custom health bar (already close to finished)
+
+
+Extra notes: 
