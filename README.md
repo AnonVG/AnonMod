@@ -27,6 +27,7 @@ WIP's for the next mod update
 - Custom sounds on all weapons
 - Smooth textures (Separate from the original mod unless the community says otherwise)
 - Custom health bar (already close to finished)
+- Custom loading screen
 
 
 Extra notes: 
