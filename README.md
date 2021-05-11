@@ -12,6 +12,7 @@ This mod includes:
 - Custom kill icons for every type of kill (2x, 3x, nailed, drilled, etc...)
 - Custom UI (Thanks to twitch.tv/tomogunchi)
 - Custom thumbnails (challenges, maps, skins, etc...)
+- Custom loading screen image
 - Removes annoying/unecessary textures (snow on tundra, rain on temple, etc...)
 - Changes default spray
 
@@ -30,3 +31,4 @@ WIP's for the next mod update
 
 
 Extra notes: 
+- Congrats to SWEATYBOYSIMP in-game for being the first person to find and download my mod C:
