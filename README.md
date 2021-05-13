@@ -1,33 +1,36 @@
-# AnonMod
-My mod for venge.io
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="200" src="https://media.discordapp.net/attachments/822880079502770236/842124103074578452/Spray-GG_1.png" alt="Anon Mod - Made by Anonymous Guest" align="center">
+</p>
 
-First released on 10/5/2021
+<h1 align="center" style="margin-top: 0px;">Anon Mod</h1>
 
-This mod includes:
+ <p align="center">
+    A clean purple themed mod made for anyone that enjoys Venge.
+    <br />
+    <a href="https://github.com/AnonVG/AnonModv1/releases/latest/">Download</a>
+    ·
+    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/AnonVG/AnonModv1/total?label=Downloads">
+    ·
+    <a href="https://github.com/AnonVG/AnonModv1/issues">Report Bugs</a>
+  </p>
+</p>
 
-- Custom textures on every main map
-- Custom sounds on all main weapons
-- Custom icons
-- Custom default weapons skins
-- Custom kill icons for every type of kill (2x, 3x, nailed, drilled, etc...)
-- Custom UI (Thanks to twitch.tv/tomogunchi)
-- Custom thumbnails (challenges, maps, skins, etc...)
-- Removes annoying/unecessary textures (snow on tundra, rain on temple, etc...)
-- Changes default spray
+## Features
+- Over 100+ textures recolored for easier sight.
+- Satisfying purple colors that look clean as F#$%!
+- Clashing player textures that make tracking easier.
 
-Thanks to:
+## Installation Methods
 
-- Gunchi (or twitch.tv/tomogunchi) for providing most of the menu UI script
-- The venge.io discord server for helping me out with ideas and comments (most notably llama, PR3R4K (Aka KittyCat), Gunchi, Kayta, Zip, and StreamKing)
+#### Quick Installation
+1. Right click [this](https://github.com/AnonVG/AnonModv1/releases/latest/download/AnonMod.zip) and click "Copy Link Address"
+2. Go to your Venge Client settings
+3. Go to **Client**
+4. Paste the link into the **Resource URL** box
+5. Restart your client
 
-WIP's for the next mod update
-
-- Optimized textures
-- Custom sounds on all weapons
-- Smooth textures (Separate from the original mod unless the community says otherwise)
-- Custom health bar (already close to finished)
-- Custom loading screen
-
-
-Extra notes: 
-- Congrats to SWEATYBOYSIMP in-game for being the first person to find and download my mod C:
+#### Manual Installation
+1. Download the [latest release here](https://github.com/AnonVG/AnonModv1/releases/latest "Latest Release").
+2. Open **AnonMod.zip**
+3. Extract the contents of **AnonMod.zip** into your Venge Client resource swapper
+4. Launch or restart your client
