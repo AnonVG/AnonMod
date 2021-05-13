@@ -25,6 +25,7 @@
 - Adds custom kill icons
 - Adds custom icons including default spray
 - Removes those annoying ass textures like the rain on temple 
+- Cleaner bullet trails
 
 ## Installation Methods
 
