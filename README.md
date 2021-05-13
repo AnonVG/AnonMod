@@ -7,7 +7,7 @@
  <p align="center">
     A clean purple themed mod made for anyone that enjoys Venge.
     <br />
-    <a href="https://github.com/KruzShady/vWeeb/releases/latest/">Download</a>
+    <a href="https://github.com/AnonVG/AnonModv1/releases/latest/">Download</a>
     ·
     <img alt="Total Downloads" src="https://img.shields.io/github/downloads/AnonVG/AnonModv1/total?label=Downloads">
     ·
@@ -16,12 +16,21 @@
 </p>
 
 ## Features
-- New gun models and textures that honors all you anime lovers.
-- Satisfying kill and damage sounds.
-- Simplified Sierra textures that will make your game run even faster.
+- Over 100+ textures recolored for easier sight.
+- Satisfying purple colors that look clean as F#$%!
+- Clashing player textures that make tracking easier.
 
-## Usage
-1. Download the [latest release here](https://github.com/KruzShady/vWeeb/releases/latest/download/vWeeb.zip "Latest Release").
-2. Open **vWeeb.zip**
-3. Drag the contents of **vWeeb.zip** into your Venge Client resource swapper
+## Instalation Methods
+
+#### Quick Instalation
+1. Right click [this](https://github.com/AnonVG/AnonModv1/releases/latest/download/AnonMod.zip) and click "Copy Link Address"
+2. Go to your Venge Client settings
+3. Go to **Client**
+4. Paste the link into the **Resource URL** box
+5. Restart your client
+
+#### Manual Instalation
+1. Download the [latest release here](https://github.com/AnonVG/AnonModv1/releases/latest "Latest Release").
+2. Open **AnonMod.zip**
+3. Extract the contents of **AnonMod.zip** into your Venge Client resource swapper
 4. Launch or restart your client
