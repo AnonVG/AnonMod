@@ -22,6 +22,9 @@
 - Adds new sounds for every main gun
 - Adds new thumbnails (map, quests, guns, etc...)
 - Adds a custom UI to the main menu w/ a sick galaxy background
+- Adds custom kill icons
+- Adds custom icons including default spray
+- Removes those annoying ass textures like the rain on temple 
 
 ## Installation Methods
 
