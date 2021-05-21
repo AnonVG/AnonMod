@@ -15,6 +15,9 @@
   </p>
 </p>
 
+## EDIT:
+- The menu UI script is fucked. I would recommend waiting for me to update the mod before downloading it, because atm the menu is kind of scuffed
+
 ## Features
 - Over 100+ textures recolored for easier sight.
 - Satisfying purple colors that look clean as F#$%!
