@@ -16,7 +16,7 @@
 </p>
 
 ## EDIT:
-- The menu UI script is being weird. I would recommend waiting for me to update the mod before downloading it, because atm the menu is kind of scuffed. The features will be the same and I might even optimize the textures for more fps, but until I don't release the next version of me mod (coming soon), I would recommend waiting.
+- The menu UI script is being weird. I would recommend waiting for me to update the mod before downloading it, because at the moment the menu is kind of scuffed. The features will be the same and I might even optimize the textures for more fps, but until I don't release the next version of me mod (coming soon), I would recommend waiting.
 
 ## Features
 - Over 100+ textures recolored for easier sight.
