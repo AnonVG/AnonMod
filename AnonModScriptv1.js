@@ -1,11 +1,10 @@
-window.menu = pc.app.getEntityFromIndex("f476d893-1c86-419b-a3f6-7062a0928b7c");
+window.menu = pc.app.root.findByName('Menu')
 
 //menu.children[0].element.color = {r: 1, g: 1, b: 1, a: 1}
 menu.children[0].element.margin = { x: -240, y: -150, z: -240, w: -150 };
 
-window.findmatch = pc.app.getEntityFromIndex(
-  "ed3526e2-16ff-4fa9-a9a5-2dd5908e842e"
-);
+window.findmatch = pc.app.root.findByName('FindMatch')
+
 findmatch.element.color = {
   r: 1,
   g: 0,
@@ -13,11 +12,8 @@ findmatch.element.color = {
   a: 1,
 };
 findmatch.button.data.hoverTint = { r: 82, g: 0, b: 96, a: 1 };
-
-window.matchfield = pc.app.getEntityFromIndex(
-  "c837c197-5cc0-419f-b207-f5b043a562b0"
-);
-matchfield.children[0].element.opacity = 0.8;
+window.matchfield = pc.app.root.findByName('Side').children[1]
+matchfield.children[0].element.opacity = 0.5;
 matchfield.children[0].element.color = { r: 0.34117, g: 0, b: 0.58039, a: 0.5 };
 matchfield.children[1].children[0].element.color = {
   r: 0.34117,
@@ -25,34 +21,20 @@ matchfield.children[1].children[0].element.color = {
   b: 0.58039,
   a: 0.5,
 };
-matchfield.children[1].children[0].element.opacity = 0.8;
+matchfield.children[1].children[0].element.opacity = 0.5;
 matchfield.children[1].children[0].children[1].children[0].element.color = {
   r: 0.34117,
   g: 0,
   b: 0.58039,
   a: 0.5,
+}
+matchfield.children[1].children[3].element.opacity = 0.9;
+matchfield.children[1].children[3].element.color = {
+  r: 0.48888,
+  g: 1,
+  b: 0.85882,
+  a: 0.5,
 };
-matchfield.children[1].children[0].children[1].element.color = {
-  r: 0.20784,
-  g: 0,
-  b: 0.43921,
-  a: 1,
-};
-
-matchfield.children[1].children[0].children[4].element.color = {
-  r: 0.20784,
-  g: 0,
-  b: 0.20784,
-  a: 1,
-};
-
-matchfield.children[1].children[0].children[3].element.color = {
-  r: 0.20784,
-  g: 0,
-  b: 0.83137,
-  a: 1,
-};
-
 matchfield.children[1].children[4].element.color = {
   r: 0.50196,
   g: 0,
@@ -71,25 +53,12 @@ matchfield.children[1].children[6].element.color = {
   b: 0.58039,
   a: 0.5,
 };
-matchfield.children[1].children[7].element.text = "Anon mod v1";
+matchfield.children[1].children[7].element.text = "Anon mov v1.1";
 matchfield.children[1].children[7].element.color = {
   r: 1,
   g: 1,
   b: 1,
   a: 1,
-};
-matchfield.children[1].children[6].element.color = {
-  r: 0.50196,
-  g: 0,
-  b: 1,
-  a: 1,
-};
-matchfield.children[1].children[3].element.opacity = 0.9;
-matchfield.children[1].children[3].element.color = {
-  r: 0.48888,
-  g: 1,
-  b: 0.85882,
-  a: 0.5,
 };
 matchfield.children[2].children[9].setLocalPosition(124.5, 214.786, 0);
 matchfield.parent.children[0].children[0].element.color = {
@@ -157,6 +126,46 @@ matchfield.parent.parent.parent.children[5].children[0].setLocalPosition(0, 100,
 matchfield.parent.parent.parent.children[6].enabled = false;
 matchfield.parent.parent.parent.parent.children[9].setLocalPosition(-2.3, 1, 0);
 
-window.menuUIDFind = pc.app.getEntityFromIndex(
-  "06c5ec69-e469-4a9c-8d86-1f10ab8e0412"
-);
+pc.app.on('Map:Loaded', () => {
+	Player.prototype.onCharacterSkinSet = function(t) {
+		var e = this.characterName + "-" + t + ".jpg";
+		if (t && this.characterEntity) {
+			for (var i = this.characterEntity.model.material.clone(), a = this.app.assets.find(e), s = this.characterEntity.model.meshInstances, o = 0; o < s.length; ++o) {
+				s[o].material = i
+			}
+			this.app.assets.load(a),
+			a.ready((function(t) {
+				i.diffuseMap = a.resource,
+				i.update()
+			}
+			))
+		}
+	  }
+	  Enemy.prototype.setCharacterSkin = function(t, i, e) {
+		if (this.isActivated)
+			return this.entity.collision.height = 4,
+			this.modelHolder.enabled = !1,
+			this.bodyEntity.enabled = !1,
+			!1;
+		this.entity.addComponent("rigidbody"),
+		this.entity.rigidbody.type = pc.BODYTYPE_KINEMATIC,
+		this.entity.rigidbody.enabled = !0,
+		void 0 !== t && (this.skin = t);
+		var s = this;
+		for (var n in this.skins) {
+			var a = this.skins[n];
+			this.skin == a.name ? (a.enabled = !0,
+			this.characterEntity = a) : a.enabled = !1
+		}
+		"Lilium" == this.skin ? (this.hammerEntity.enabled = !0,
+		this.katanaEntity.enabled = !1) : "Shin" == this.skin && (this.hammerEntity.enabled = !1,
+		this.katanaEntity.enabled = !0),
+		e && this.setDanceAnimation(this.skin, e),
+		i && (this.heroSkin = i,
+		this.setHeroSkin()),
+		this.app.assets.find(this.skin + "-Character").ready((function() {
+			s.loadCharacterParts()
+		}
+		))
+	  }
+})
