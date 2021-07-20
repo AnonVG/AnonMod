@@ -11,7 +11,7 @@
     ·
     <img alt="Total Downloads" src="https://img.shields.io/github/downloads/AnonVG/AnonModv1/total?label=Downloads">
     ·
-    <a href="https://github.com/AnonVG/AnonModv1/issues">Report Bugs</a>
+    <a href="https://github.com/AnonVG/AnonMod/issues">Report Bugs</a>
   </p>
 </p>
 
