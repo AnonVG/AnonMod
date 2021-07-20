@@ -1,4 +1,4 @@
-<p align="center" style="margin-bottom: 0px !important;">
+N<p align="center" style="margin-bottom: 0px !important;">
   <img width="200" src="https://media.discordapp.net/attachments/822880079502770236/842124103074578452/Spray-GG_1.png" alt="Anon Mod - Made by Anonymous Guest" align="center">
 </p>
 
@@ -15,9 +15,6 @@
   </p>
 </p>
 
-## EDIT:
-- THE MOD WILL BE UPDATED WHEN SHADY GETS HIS ASS ONLINE. 1-5 DAYS. BE READY
-
 ## Features
 - Over 100+ textures recolored for easier sight.
 - Satisfying purple colors that look clean as F#$%!
@@ -29,6 +26,8 @@
 - Adds custom icons including default spray
 - Removes those annoying ass textures like the rain on temple 
 - Cleaner bullet trails
+- Custom sky color (black)
+- Slight fps BOOST (100% fps dedicated mod comming soon)
 
 ## Installation Methods
 
@@ -40,7 +39,9 @@
 5. Restart your client
 
 #### Manual Installation
-1. Download the [latest release here](https://github.com/AnonVG/AnonModv1/releases/latest "Latest Release").
+1. Download the [latest release here](https://github.com/AnonVG/AnonMod/releases/latest "Latest Release").
 2. Open **AnonMod.zip**
 3. Extract the contents of **AnonMod.zip** into your Venge Client resource swapper
 4. Launch or restart your client
+
+DM ME ON DISCORD Anon.#3258 OR LEAVE A COMMENT IN "ISSUES" FOR ANY BUGS YOU FIND
