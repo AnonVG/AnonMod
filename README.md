@@ -1,4 +1,4 @@
-N<p align="center" style="margin-bottom: 0px !important;">
+<p align="center" style="margin-bottom: 0px !important;">
   <img width="200" src="https://media.discordapp.net/attachments/822880079502770236/842124103074578452/Spray-GG_1.png" alt="Anon Mod - Made by Anonymous Guest" align="center">
 </p>
 
