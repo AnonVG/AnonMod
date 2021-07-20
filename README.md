@@ -34,17 +34,11 @@ GIVE ME A SECOND TO CHANGE AND FIX THE MOD, IT'S BEING WEIRD
 
 ## Installation Methods
 
-#### Quick Installation
-1. Right click [this](https://github.com/AnonVG/AnonModv1/releases/latest/download/AnonMod.zip) and click "Copy Link Address"
-2. Go to your Venge Client settings
-3. Go to **Client**
-4. Paste the link into the **Resource URL** box
-5. Restart your client
-
 #### Manual Installation
 1. Download the [latest release here](https://github.com/AnonVG/AnonMod/releases/latest "Latest Release").
-2. Open **AnonMod.zip**
-3. Extract the contents of **AnonMod.zip** into your Venge Client resource swapper
-4. Launch or restart your client
+2. Open **assets.zip**
+3. Extract the contents of **assets.zip** into your Venge Client resource swapper
+4. Move **charfix.js** and **anonscript.js** into the Venge Client userscripts section
+5. Launch or restart your client
 
 DM ME ON DISCORD Anon.#3258 OR LEAVE A COMMENT IN "ISSUES" FOR ANY BUGS YOU FIND
