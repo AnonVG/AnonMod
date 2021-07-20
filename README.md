@@ -29,6 +29,7 @@ I AM AWARE THAT THERE IS NO SCAR SOUND, IT WILL BE FIXED SHORTLY. SORRY FOR THE 
 - Removes those annoying ass textures like the rain on temple 
 - Cleaner bullet trails
 - Custom sky color (black)
+- Bits here and there of in-game UI customization
 - Slight fps BOOST (100% fps dedicated mod comming soon)
 
 ## Installation Methods
