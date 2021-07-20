@@ -16,7 +16,7 @@
 </p>
 
 ## EDIT:
-- THE MOD WILL BE UPDATED SOON. 1-2 WEEKS TIME. BE READY
+- THE MOD WILL BE UPDATED WHEN SHADY GETS HIS ASS ONLINE. 1-5 DAYS. BE READY
 
 ## Features
 - Over 100+ textures recolored for easier sight.
