@@ -36,9 +36,9 @@ I know there is no scar sound, I'm trying to figure out why that's not working.
 
 #### Manual Installation
 1. Download the [latest release here](https://github.com/AnonVG/AnonMod/releases/latest "Latest Release").
-2. Open **assets.zip**
-3. Extract the contents of **assets.zip** into your Venge Client resource swapper
-4. Move **charfix.js** and **anonscript.js** into the Venge Client userscripts section
+2. Extract all the files from **Anon Mod v2.zip**
+3. Move the **assets** folder into the **ressource swapper** folder of your Venge Client
+4. Move **charfix.js** and **anonscript.js** into the userscripts folder of Venge Client
 5. Launch or restart your client
 
 DM ME ON DISCORD Anon.#3258 OR LEAVE A COMMENT IN "ISSUES" FOR ANY BUGS YOU FIND
