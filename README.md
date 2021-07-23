@@ -1,5 +1,3 @@
-I know there is no scar sound, I'm trying to figure out why that's not working. 
-
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="200" src="https://media.discordapp.net/attachments/822880079502770236/842124103074578452/Spray-GG_1.png" alt="Anon Mod - Made by Anonymous Guest" align="center">
 </p>
@@ -33,6 +31,15 @@ I know there is no scar sound, I'm trying to figure out why that's not working.
 - Slight fps BOOST (100% fps dedicated mod comming soon)
 
 ## Installation Methods
+
+### Quick instalation 
+1. Right click [this link](https://github.com/AnonVG/AnonMod/releases/download/v2.1.0/Anon_Mod_V2.zip "this link") and click **copy link**
+2. Open your Venge.io Client
+3. Click on the **settings** page
+4. Click on **client**
+5. Click on **Enable Venge.io Mod**
+6. Paste the link you copied into the **Download Mod URL** box 
+7. Restart your client
 
 #### Manual Installation
 1. Download the [mod zip here](https://github.com/AnonVG/AnonMod/blob/main/Anon%20Mod%20v2.zip "mod zip") and click on the **download** button.
