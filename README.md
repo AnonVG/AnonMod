@@ -42,8 +42,8 @@
 7. Restart your client
 
 #### Manual Installation
-1. Download the [mod zip here](https://github.com/AnonVG/AnonMod/blob/main/Anon%20Mod%20v2.zip "mod zip") and click on the **download** button.
-2. Extract all the files from **Anon Mod v2.zip**
+1. Download the [mod zip here](https://github.com/AnonVG/AnonMod/releases/download/v2.1.0/Anon_Mod_V2.zip "mod zip").
+2. Extract all the files from **Anon_Mod_v2.zip**
 3. Move the **assets** folder into the **ressource swapper** folder of your Venge Client
 4. Move **charfix.js** and **anonscript.js** into the userscripts folder of Venge Client
 5. Launch or restart your client
