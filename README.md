@@ -16,7 +16,7 @@
 </p>
 
 ## Features
-- Over 100+ textures recolored for easier sight.
+- Over 200+ textures recolored for easier sight.
 - Satisfying purple colors that look clean as F#$%!
 - Clashing player textures that make tracking easier.
 - Adds new sounds for every main gun
