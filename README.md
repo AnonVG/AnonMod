@@ -33,6 +33,8 @@
 
 ## Installation Methods
 
+**You must instal the Venge Client to use mods. Join the official venge discord to download it**
+
 ### Quick instalation 
 **NOTE: DO NOT USE THIS INSTALATION METHOD RIGHT NOW, THE CLIENT DEV HAS DISSABLED THE VENGE.IO MOD FEATURE. WHEN IT IS RE-ENABLED, USE THIS INSTALATION METHOD**
 
