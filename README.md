@@ -38,7 +38,7 @@
 ### Quick instalation 
 **NOTE: DO NOT USE THIS INSTALATION METHOD RIGHT NOW, THE CLIENT DEV HAS DISSABLED THE VENGE.IO MOD FEATURE. WHEN IT IS RE-ENABLED, USE THIS INSTALATION METHOD**
 
-1. Right click [this link](https://github.com/AnonVG/AnonMod/releases/download/v2.2.0/Anon_Mod_V2.zip "this link") and click **copy link**
+1. Right click [this link](https://github.com/AnonVG/AnonMod/releases/download/v2.2.1/Anon_Mod_V2.zip "this link") and click **copy link**
 2. Open your Venge.io Client
 3. Click on the **settings** page
 4. Click on **client**
@@ -47,7 +47,7 @@
 7. Restart your client
 
 #### Manual Installation
-1. Download the [mod zip here](https://github.com/AnonVG/AnonMod/releases/download/v2.2.0/Anon_Mod_V2.zip "mod zip").
+1. Download the [mod zip here](https://github.com/AnonVG/AnonMod/releases/download/v2.2.1/Anon_Mod_V2.zip "mod zip").
 2. Extract all the files from **Anon_Mod_v2.zip**
 3. Move the **files** folder into the **ressource swapper** folder of your Venge Client
 4. Move **charfix.js** and **anonscript.js** into the userscripts folder of Venge Client
