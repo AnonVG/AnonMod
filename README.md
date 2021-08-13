@@ -36,7 +36,6 @@
 **You must instal the Venge Client to use mods. Join the official venge discord to download it**
 
 ### Quick instalation 
-**NOTE: DO NOT USE THIS INSTALATION METHOD RIGHT NOW, THE CLIENT DEV HAS DISSABLED THE VENGE.IO MOD FEATURE. WHEN IT IS RE-ENABLED, USE THIS INSTALATION METHOD**
 
 1. Right click [this link](https://github.com/AnonVG/AnonMod/releases/download/v2.2.1/Anon_Mod_V2.zip "this link") and click **copy link**
 2. Open your Venge.io Client
