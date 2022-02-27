@@ -28,7 +28,7 @@
 - Cleaner bullet trails
 - Custom sky color (black)
 - Bits here and there of in-game UI customization
-- Slight fps BOOST (100% fps dedicated mod comming soon)
+- Fps BOOST
 - Custom CSS on the friends list page
 
 ## Installation Methods
