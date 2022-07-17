@@ -35,6 +35,18 @@
 
 **You must instal the Venge Client to use mods. Join the official venge discord to download it**
 
+#### Manual Installation
+1. Download the [mod zip here](https://github.com/AnonVG/AnonMod/files/8028529/AnonMod2.2.2.zip "mod zip").
+2. Extract all the files from **Anon_Mod_v2.zip**
+3. Move the **files** folder into the **ressource swapper** folder of your Venge Client
+4. Move **charfix.js** and **anonscript.js** into the userscripts folder of Venge Client
+5. Launch or restart your client
+
+DM ME ON DISCORD Anon.#3258 OR LEAVE A COMMENT IN "ISSUES" FOR ANY BUGS YOU FIND
+
+
+**QUICK INSTALATION DOES NOT WORK BECAUSE OF CLIENT. IF IT EVER COMES BACK, USE THIS METHOD**
+
 ### Quick instalation 
 
 1. Right click [this link](https://github.com/AnonVG/AnonMod/files/8028529/AnonMod2.2.2.zip "this link") and click **copy link**
@@ -44,12 +56,3 @@
 5. Click on **Enable Venge.io Mod**
 6. Paste the link you copied into the **Download Mod URL** box 
 7. Restart your client
-
-#### Manual Installation
-1. Download the [mod zip here](https://github.com/AnonVG/AnonMod/files/8028529/AnonMod2.2.2.zip "mod zip").
-2. Extract all the files from **Anon_Mod_v2.zip**
-3. Move the **files** folder into the **ressource swapper** folder of your Venge Client
-4. Move **charfix.js** and **anonscript.js** into the userscripts folder of Venge Client
-5. Launch or restart your client
-
-DM ME ON DISCORD Anon.#3258 OR LEAVE A COMMENT IN "ISSUES" FOR ANY BUGS YOU FIND
