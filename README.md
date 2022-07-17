@@ -43,18 +43,3 @@
 5. Launch or restart your client
 
 DM ME ON DISCORD Anon.#3258 OR LEAVE A COMMENT IN "ISSUES" FOR ANY BUGS YOU FIND
-
-
-
-
-**QUICK INSTALATION DOES NOT WORK BECAUSE OF CLIENT. IF IT EVER COMES BACK, USE THIS METHOD**
-
-### Quick instalation 
-
-1. Right click [this link](https://github.com/AnonVG/AnonMod/files/8028529/AnonMod2.2.2.zip "this link") and click **copy link**
-2. Open your Venge.io Client
-3. Click on the **settings** page
-4. Click on **client**
-5. Click on **Enable Venge.io Mod**
-6. Paste the link you copied into the **Download Mod URL** box 
-7. Restart your client
